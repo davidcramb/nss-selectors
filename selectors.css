@@ -49,3 +49,12 @@ nav a {
     border: 1px solid black;
     border-radius: 20px;
 }
+
+.promo {
+    font-weight: 800;
+    color: gold;
+}
+
+input {
+    height: 25px;
+}
